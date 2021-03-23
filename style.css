@@ -28,5 +28,6 @@ body {
 	.clock-diplay{
 		font-size: 45px;
 		text-align: center;
+		color: rgb(131, 9, 161);
 	}
 }
