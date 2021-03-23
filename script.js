@@ -1,3 +1,10 @@
+// var time = h + ':' + m + ':' + s + " " + session;
+// document.querySelector('.clock-diplay').innerText = time;
+// setTimeout(showTime, 1000);
+// }
+
+// showTime();
+
 function showTime() {
 	var date = new Date();
 	var h = date.getHours();
